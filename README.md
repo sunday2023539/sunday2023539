@@ -40,7 +40,7 @@ Welcome to my portfolio, where I showcase my projects, achievements, and passion
 ---
 
 💡 **Key Projects**
-### 🗺️ Featured Geospatial Dashboard: [Malaria Risk Monitoring – Nigeria State Insights & Trends]
+### 🗺️ Featured Geospatial Dashboard: Malaria Risk Monitoring – Nigeria State Insights & Trends
 
 <div align="center">
     <iframe 
@@ -48,10 +48,8 @@ Welcome to my portfolio, where I showcase my projects, achievements, and passion
         width="100%" 
         height="650" 
         frameborder="0" 
-        style="border:0;" 
-        allowfullscreen>
-    </iframe>
+        allowfullscreen
+    ></iframe>
 </div>
-
 
 
