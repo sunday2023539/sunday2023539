@@ -21,3 +21,8 @@ Welcome to my portfolio, where I showcase my projects, achievements, and passion
 
 **SQL & Data Management:** Efficiently query and manage data across various database systems (including spatial databases) using robust SQL practices.
 
+💡 **Projects**
+---
+
+
+
