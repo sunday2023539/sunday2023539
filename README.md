@@ -26,11 +26,15 @@ Welcome to my portfolio, where I showcase my projects, achievements, and passion
 
 💡 **Projects**
 ---
-[Austria Employment Insight](https://github.com/sunday2023539/Spatial_Data_Infrastructure)
-[Malaria Incidence in Nigeria](https://geoportal22s.zgis.at/portal/apps/storymaps/stories/adb2b64fc6ce4c9eb186a9d026ec240e)
-[Nigeria Democracy](https://storymaps.arcgis.com/stories/d248b3d798bb4da7aabfd84203edb504)
-[Great Places to explore in Summer](https://github.com/sunday2023539/Great-Places-to-explore-in-Summer)
-[Dasymetric Mapping of Salzburg city](https://github.com/sunday2023539/Dasymetric-Mapping-for-Detailed-Population-Distribution-in-Salzburg-City-)
+👔 **[Austria Employment Insight](https://github.com/sunday2023539/Spatial_Data_Infrastructure)**
+
+🦟 **[Malaria Incidence in Nigeria](https://geoportal22s.zgis.at/portal/apps/storymaps/stories/adb2b64fc6ce4c9eb186a9d026ec240e)**
+
+🗳️ **[Nigeria Democracy](https://storymaps.arcgis.com/stories/d248b3d798bb4da7aabfd84203edb504)**
+
+📍 **[Great Places to explore in Summer](https://github.com/sunday2023539/Great-Places-to-explore-in-Summer)**
+
+🗺️ **[Dasymetric Mapping of Salzburg city](https://github.com/sunday2023539/Dasymetric-Mapping-for-Detailed-Population-Distribution-in-Salzburg-City-)**
 
 
 
