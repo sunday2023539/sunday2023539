@@ -36,5 +36,23 @@ Welcome to my portfolio, where I showcase my projects, achievements, and passion
 
 🗺️ **[Dasymetric Mapping of Salzburg city](https://github.com/sunday2023539/Dasymetric-Mapping-for-Detailed-Population-Distribution-in-Salzburg-City-)**
 
+---
+---
+
+💡 **Key Projects**
+### 🗺️ Featured Geospatial Dashboard: [Malaria Risk Monitoring – Nigeria State Insights & Trends]
+
+<div align="center">
+    <iframe 
+        src="[https://www.arcgis.com/apps/dashboards/25e2250005d54e0dbc3c5433a74ca8ec]" 
+        width="100%" 
+        height="650" 
+        frameborder="0" 
+        style="border:0;" 
+        allowfullscreen>
+    </iframe>
+</div>
+
+
 
 
