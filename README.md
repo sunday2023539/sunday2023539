@@ -43,5 +43,5 @@ Welcome to my portfolio, where I showcase my projects, achievements, and passion
 
 ### 🗺️ Featured Geospatial Dashboard: Malaria Risk Monitoring
 ![Malaria Risk Monitoring](malaria_dashboard_thumb.png)
-[![View Interactive Dashboard](https://img.shields.io/badge/View%20Interactive%20Story%20Map-blue?style=for-the-badge)](https://www.arcgis.com/apps/dashboards/25e2250005d54e0dbc3c5433a74ca8ec)
+[![View Interactive Dashboard](https://img.shields.io/badge/View%20Interactive%20Dashboard-blue?style=for-the-badge)](https://www.arcgis.com/apps/dashboards/25e2250005d54e0dbc3c5433a74ca8ecj)
 
