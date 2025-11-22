@@ -12,4 +12,11 @@ Welcome to my portfolio, where I showcase my projects, achievements, and passion
 
 🧠 Proficiencies
 ----
+**Data Analysis & Modeling:** Analyze complex datasets, including spatial data, to identify trends, patterns, and anomalies. Expertise in ETL processes and modeling using Python, SQL, and QGIS.
+
+**Geospatial & BI Visualization:** Create dynamic and insightful visualizations for both tabular and location-based data. Tools include Tableau, Power BI, Excel, and the ArcGIS Ecosystem (Dashboards, Story Maps, Web Maps).
+
+**Spatial Intelligence & Strategy:** Develop data-driven strategies utilizing geographic context. Implement solutions using ArcGIS Pro/Online/Enterprise for advanced analysis, data collection workflows, and supporting key business decisions.
+
+**SQL & Data Management:** Efficiently query and manage data across various database systems (including spatial databases) using robust SQL practices.
 
