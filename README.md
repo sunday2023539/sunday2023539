@@ -7,3 +7,8 @@ I am detail-oriented, analytical, and highly collaborative, ensuring data-driven
 
 Welcome to my portfolio, where I showcase my projects, achievements, and passion for data analytics!
 
+**----***
+
+🧠 Proficiencies
+----
+
