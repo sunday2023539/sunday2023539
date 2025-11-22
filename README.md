@@ -43,9 +43,15 @@ Welcome to my portfolio, where I showcase my projects, achievements, and passion
 
 ### 🗺️ Featured Geospatial Dashboard: Malaria Risk Monitoring
 
+### 🗺️ Featured Geospatial Dashboard: Malaria Risk Monitoring
+
 <div align="center">
-    <a href="https://www.arcgis.com/apps/dashboards/25e2250005d54e0dbc3c5433a74ca8ecj" target="_blank">
-        <img src="[https://github.com/sunday2023539/sunday2023539/blob/main/malaria_dashboard_thumb.png]" alt="Malaria Risk Monitoring Dashboard - Click to View" width="100%">
-    </a>
+    <img 
+        src="[https://github.com/sunday2023539/sunday2023539/blob/main/malaria_dashboard_thumb.png]" 
+        alt="Malaria Risk Monitoring Dashboard Thumbnail" 
+        width="100%" 
+        style="border: 2px solid #5a87a7;"> 
+    <br><br> 
+    ### 🔗 [View Interactive Dashboard on ArcGIS Online](https://www.arcgis.com/apps/dashboards/25e2250005d54e0dbc3c5433a74ca8ecj)
 </div>
 
