@@ -41,7 +41,11 @@ Welcome to my portfolio, where I showcase my projects, achievements, and passion
 
 ## 🔑 Key Projects
 
-### 🗺️ Featured Geospatial Dashboard: Malaria Risk Monitoring – Nigeria State Insights & Trends
+### 🗺️ Featured Geospatial Dashboard: Malaria Risk Monitoring
 
-<iframe src="https://www.arcgis.com/apps/dashboards/25e2250005d54e0dbc3c5433a74ca8ecj" width="100%" height="650" frameborder="0" allowfullscreen></iframe>
+<div align="center">
+    <a href="https://www.arcgis.com/apps/dashboards/25e2250005d54e0dbc3c5433a74ca8ecj" target="_blank">
+        <img src="https://raw.githubusercontent.com/sunday2023539/sunday2023539/main/malaria_dashboard_thumb.png" alt="Malaria Risk Monitoring Dashboard - Click to View" width="100%">
+    </a>
+</div>
 
