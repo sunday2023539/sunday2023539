@@ -45,7 +45,7 @@ Welcome to my portfolio, where I showcase my projects, achievements, and passion
 
 <div align="center">
     <a href="https://www.arcgis.com/apps/dashboards/25e2250005d54e0dbc3c5433a74ca8ecj" target="_blank">
-        <img src="[https://github.com/sunday2023539/sunday2023539/blob/main/malaria_dashboard_thumb.png.png]" alt="Malaria Risk Monitoring Dashboard - Click to View" width="100%">
+        <img src="[https://github.com/sunday2023539/sunday2023539/blob/main/malaria_dashboard_thumb.png]" alt="Malaria Risk Monitoring Dashboard - Click to View" width="100%">
     </a>
 </div>
 
