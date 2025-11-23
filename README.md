@@ -48,7 +48,8 @@ Welcome to my portfolio, where I showcase my projects, achievements, and passion
 ----
 ----
 
-**Languages**
+🗣️**Languages**
 English (Advanced)
+
 German (Basic)
 
