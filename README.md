@@ -41,7 +41,7 @@ Welcome to my portfolio, where I showcase my projects, achievements, and passion
 ---
 ---
 
-### 📊 Tableau Visualization**
+### 📊 Tableau Visualization
 ----
 <div align="center">
     <a href="[https://public.tableau.com/app/profile/babafemi.sunday.olatunji/viz/2022-2023FootballTransferMarketAnalysis/Dashboard22]">
