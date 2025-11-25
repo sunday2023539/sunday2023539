@@ -45,7 +45,7 @@ Welcome to my portfolio, where I showcase my projects, achievements, and passion
 ----
 [![2022-2023 Football Transfer Market Dashboard](https://raw.githubusercontent.com/sunday2023539/sunday2023539/main/blob/main/Transfer.png])]([https://public.tableau.com/app/profile/babafemi.sunday.olatunji/viz/2022-2023FootballTransferMarketAnalysis/Dashboard22]) 
 
-<div align="center">**Football Transfer Analysis**</div> 
+
 
 ## 🔑 Key Projects
 
