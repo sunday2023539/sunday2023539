@@ -39,6 +39,10 @@ Welcome to my portfolio, where I showcase my projects, achievements, and passion
 ---
 ---
 
+**Tableau Visualization**
+----
+
+
 ## 🔑 Key Projects
 
 ### 🗺️ Featured Geospatial Dashboard: Malaria Risk Monitoring
