@@ -36,7 +36,7 @@ Welcome to my portfolio, where I showcase my projects, achievements, and passion
 
 🗺️ **[Dasymetric Mapping of Salzburg city](https://github.com/sunday2023539/Dasymetric-Mapping-for-Detailed-Population-Distribution-in-Salzburg-City-)**
    
-⚽ **[2022-2023-Football-Transfer-Market-Analysis](https://github.com/sunday2023539/Great-Places-to-explore-in-Summer)**
+⚽ **[2022-2023-Football-Transfer-Market-Analysis](https://github.com/sunday2023539/2022-2023-Football-Transfer-Market-Analysis)**
 
 ---
 ---
