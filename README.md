@@ -41,13 +41,12 @@ Welcome to my portfolio, where I showcase my projects, achievements, and passion
 ---
 ---
 
-**Tableau Visualization**
+### 📊 Tableau Visualization**
 ----
-### 📊 Tableau Visualizations
-
 <p align="center">
     <a href="[https://public.tableau.com/app/profile/babafemi.sunday.olatunji/viz/2022-2023FootballTransferMarketAnalysis/Dashboard22]">
-        <img src="[https://github.com/sunday2023539/sunday2023539/blob/main/Transfer.png]" 
+        <img src="https://raw.githubusercontent.com/sunday2023539/sunday2023539/blob/main/Transfer.png
+ " 
              alt="2022-2023 Football Transfer Market Dashboard" 
              width="30%">
     </a>
@@ -55,7 +54,7 @@ Welcome to my portfolio, where I showcase my projects, achievements, and passion
     **Football Transfer Analysis**
 </p>
 
- 
+https://github.com/sunday2023539/sunday2023539/
 
 
 ## 🔑 Key Projects
