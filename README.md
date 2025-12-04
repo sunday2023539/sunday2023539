@@ -57,12 +57,6 @@ Welcome to my portfolio, where I showcase my projects, achievements, and passion
 ----
 
 
-### 🌊 Arctic Sea Ice
-![ Arctic Sea Ice](Layout4.png)
-
-----
-----
-
 ## 🗣️ Languages
 
 English (Advanced)
