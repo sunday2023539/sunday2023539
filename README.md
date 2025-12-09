@@ -24,7 +24,7 @@ Welcome to my portfolio, where I showcase my projects, achievements, and passion
 ----
 ----
 
-###💡 Projects
+💡 Projects
 ---
 👔 **[Austria Employment Insight](https://github.com/sunday2023539/Spatial_Data_Infrastructure) SDI**
 
