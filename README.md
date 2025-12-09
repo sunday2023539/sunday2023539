@@ -26,7 +26,7 @@ Welcome to my portfolio, where I showcase my projects, achievements, and passion
 
 ###💡 Projects
 ---
-👔 **[Austria Employment Insight](https://github.com/sunday2023539/Spatial_Data_Infrastructure)**
+👔 **[Austria Employment Insight](https://github.com/sunday2023539/Spatial_Data_Infrastructure) SDI**
 
 🦟 **[Malaria Incidence in Nigeria](https://geoportal22s.zgis.at/portal/apps/storymaps/stories/adb2b64fc6ce4c9eb186a9d026ec240e)**
 
