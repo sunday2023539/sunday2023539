@@ -1,12 +1,13 @@
 🙋‍♂ **About Me**
 ----
-🗺️ **Data Analyst | GIS Professional | BI Strategy** 📈
+🗺️ **Data Analyst | GIS Professional | Remote Sensing** 📈
 
-Hello! I'm Babafemi, a passionate Data Analyst and GIS professional focused on merging data and geography to optimize planning. I leverage a comprehensive stack—including the ArcGIS suite, QGIS, Tableau, Power BI, Excel and SQL—to perform advanced spatial analysis and create compelling data visualizations. Highly analytical and dedicated to actionable solutions.
+Hello! I'm Babafemi, a passionate and analytical professional dedicated to merging data and geography to optimize planning and decision-making.
 
-I am detail-oriented, analytical, and highly collaborative, ensuring data-driven insights translate into actionable solutions. My experience spans industries such as consulting, education, and retail, where I have successfully developed impactful analytics solutions.
+My focus is on Location Intelligence, utilizing a robust technical stack to transform spatial, business, and Remote Sensing data into compelling, actionable insights.
 
-Welcome to my portfolio, where I showcase my projects, achievements, and passion!
+Core Expertise
+I specialize in performing advanced spatial analysis and generating impactful data visualizations that drive organizational strategy. My detail-oriented and collaborative approach ensures that analytical insights are practical and readily translatable into solutions.
 
 ----
 ----
@@ -20,6 +21,8 @@ Welcome to my portfolio, where I showcase my projects, achievements, and passion
 **Spatial Intelligence & Strategy:** Develop data-driven strategies utilizing geographic context. Implement solutions using ArcGIS Pro/Online/Enterprise for advanced analysis, data collection workflows, and supporting key business decisions.
 
 **SQL & Data Management:** Efficiently query and manage data across various database systems (including spatial databases) using robust SQL practices.
+
+**Remote Sensing and Imagery Analysis:** Interpret and process satellite and aerial imagery (e.g., Landsat, Sentinel) for applications such as Land Use/Land Cover classification, environmental monitoring, and change detection analysis using specialized software.
 
 ----
 ----
