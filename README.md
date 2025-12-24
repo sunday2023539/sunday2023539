@@ -24,6 +24,8 @@ I specialize in performing advanced spatial analysis and generating impactful da
 
 **Remote Sensing and Imagery Analysis:** Interpret and process satellite and aerial imagery (e.g., Landsat, Sentinel) for applications such as Land Use/Land Cover classification, environmental monitoring, and change detection analysis using specialized software.
 
+**Web Languages:** Leaflet, Open Layers.
+
 ----
 ----
 
